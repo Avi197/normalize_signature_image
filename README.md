@@ -6,7 +6,11 @@ When comparing 2 signature image, the same signature might be crop in a distored
 
 Incetptionv3 architecture's input is 150x150 pixel
 
-If we resize the image, it will be stretch out, the features might be distorted
+If we resize the image, it will be stretch out, the features might be distorted </br>
+
+![og_img](https://github.com/Avi197/normalize_signature_image/blob/main/img/og_img.png) </br>
+![og_img_resize](https://github.com/Avi197/normalize_signature_image/blob/main/img/og_img_resize.png) </br>
+
 
 ### Solution
 ##### Resize but keep the signature's feature
@@ -20,5 +24,5 @@ If we resize the image, it will be stretch out, the features might be distorted
 
 ### Output
 
-[og_img](https://github.com/Avi197/normalize_signature_image/blob/main/img/og_img.png) </br>
-[norm_img](https://github.com/Avi197/normalize_signature_image/blob/main/img/norm_img.png)
+![og_img](https://github.com/Avi197/normalize_signature_image/blob/main/img/og_img.png) </br>
+![norm_img](https://github.com/Avi197/normalize_signature_image/blob/main/img/norm_img.png)
