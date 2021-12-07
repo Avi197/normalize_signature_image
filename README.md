@@ -1,0 +1,1 @@
+# normalize_signature_image
